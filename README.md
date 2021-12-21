@@ -1,4 +1,4 @@
-# <font face="vivaldi" size="6">Hi there I'm Skyee [Follin]</font> #
+# Hi there I'm Skyee [ Follin ] #
 
 
 <br/>
