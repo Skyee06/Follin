@@ -7,3 +7,9 @@
     <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
+<p align="center">
+<a href="https://discord.com/users/777830613780267039">
+<img src="https://discord.c99.nl/widget/theme-3/777830613780267039.png" alt="Discord"/>
+  </a>
+</p>
+
